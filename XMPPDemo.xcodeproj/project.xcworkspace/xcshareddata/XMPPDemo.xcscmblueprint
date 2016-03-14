@@ -1,0 +1,38 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760" : 0,
+    "443D2B9C0EDC868B30ADF0764303572C1A085A28" : 0,
+    "B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9C0169E7-B4B7-4BBC-9D81-B4E59CBFA449",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760" : "XMPPDemo\/XMPPDemo\/SDImage\/",
+    "443D2B9C0EDC868B30ADF0764303572C1A085A28" : "",
+    "B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D" : "..\/XMPPFramework"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XMPPDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XMPPDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RenXiaozhu\/XMPP.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "443D2B9C0EDC868B30ADF0764303572C1A085A28"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/robbiehanson\/XMPPFramework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/yangj.5166.info\/1000phone",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760"
+    }
+  ]
+}

@@ -1,2 +1,0 @@
-platform:ios
-pod 'ZXingObjC', '~> 3.1.0'
